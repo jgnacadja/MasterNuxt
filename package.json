@@ -1,0 +1,14 @@
+{
+    "name": "masterNuxt",
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "generate": "nuxt generate",
+        "start": "nuxt start"
+    },
+    "dependencies": {
+        "@vue/composition-api": "^1.6.2",
+        "nuxt": "^2.15.8",
+        "nuxt-buefy": "^0.4.23"
+    }
+}
